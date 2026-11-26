@@ -8,7 +8,7 @@ This is a simulation of agents trying to clean a room
 - venv is prefered
 
 > [!NOTE]
-> This project was using the uv package manager not tested with conda
+> This project develop using the uv package manager not tested with conda
 > the `requirements.txt` is provided for support to other managers.
 
 ## Install
